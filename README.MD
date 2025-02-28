@@ -17,10 +17,11 @@ Before running the Scala application, ensure you have the following:
 - **A valid authentication mechanism** (SASL SSL)
 
 ## Installation
-1. Clone this repository:
-   ```sh
-   git clone https://github.com/oglego/gcn-nasa.git
-   cd gcn-nasa
+Clone this repository:
+```sh
+git clone https://github.com/oglego/gcn-nasa.git
+cd gcn-nasa
+```
 
 ## Compile with Scala
 ```
