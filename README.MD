@@ -39,25 +39,45 @@ applications output.
 ## Expected Output
 
 2025-02-28 05:15:51 Consumed: TITLE:           GCN/SWIFT NOTICE
+
 2025-02-28 05:15:51 NOTICE_DATE:     Fri 28 Feb 25 04:18:55 UT
+
 2025-02-28 05:15:51 NOTICE_TYPE:     SWIFT Actual Pointing Direction
+
 2025-02-28 05:15:51 CURR_POINT_RA:    81.630d {+05h 26m 31s} (J2000)
+
 2025-02-28 05:15:51 CURR_POINT_DEC:  -17.917d {-17d 55' 01"} (J2000)
+
 2025-02-28 05:15:51 CURR_POINT_ROLL: 262.511d
+
 2025-02-28 05:15:51 SLEW_TIME:       15528.53 SOD {04:18:48.53} UT
+
 2025-02-28 05:15:51 SLEW_DATE:       20734 TJD;    59 DOY;   25/02/28
+
 2025-02-28 05:15:51 TGT_NUM:         16870,   Seg_Num: 29
+
 2025-02-28 05:15:51 SUN_POSTN:       341.37d {+22h 45m 29s}   -7.88d {-07d 52' 55"}
+
 2025-02-28 05:15:51 SUN_DIST:         97.48 [deg]   Sun_angle= -6.7 [hr] (East of Sun)
+
 2025-02-28 05:15:51 MOON_POSTN:      343.84d {+22h 55m 22s}   -8.46d {-08d 27' 32"}
+
 2025-02-28 05:15:51 MOON_DIST:        94.98 [deg]
+
 2025-02-28 05:15:51 MOON_ILLUM:      0 [%]
+
 2025-02-28 05:15:51 GAL_COORDS:      220.43,-26.55 [deg] galactic lon,lat of the pointing direction
+
 2025-02-28 05:15:51 ECL_COORDS:       79.42,-41.05 [deg] ecliptic lon,lat of the pointing direction
+
 2025-02-28 05:15:51 COMMENTS:        SWIFT has settled on a new target (pointing direction).  
+
 2025-02-28 05:15:51 COMMENTS:        The SLEW_TIME field represents the end of the slew plus ~30 sec for the ground s/w to detect the slew_settled state.  
+
 2025-02-28 05:15:51 COMMENTS:        Note that this is the actual pointing direction -- the result of PPST or a TOO.  
+
 2025-02-28 05:15:51 COMMENTS:        The spacecraft longitude,latitude at Notice_time is 152.40,-18.77 [deg].  
+
 2025-02-28 05:15:51  (Partition: 0, Offset: 99530)
 
 ## References
